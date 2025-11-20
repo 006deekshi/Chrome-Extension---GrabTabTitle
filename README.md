@@ -45,7 +45,9 @@ Grab-Tab-Title/
 5.The extension will appear in your Chrome toolbar
 
 📸 Demo
+
 <img width="512" height="404" alt="Screenshot 2025-11-20 165616" src="https://github.com/user-attachments/assets/40fe5ae2-1c64-41b4-828d-2c6aa7a59eeb" />
+
 <img width="531" height="384" alt="Screenshot 2025-11-20 165600" src="https://github.com/user-attachments/assets/122de3fd-497b-402e-a11f-9297ae7d44e2" />
 
 
