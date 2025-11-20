@@ -39,9 +39,13 @@ Grab-Tab-Title/
 🛠 Installation (Load Unpacked)
 
 1.Open Chrome → go to: chrome://extensions/
+
 2.Enable Developer Mode
+
 3.Click Load Unpacked
+
 4.Select the project folder
+
 5.The extension will appear in your Chrome toolbar
 
 📸 Demo
